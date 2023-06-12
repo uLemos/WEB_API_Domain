@@ -1,0 +1,10 @@
+C:\Users\fekel\source\repos\WebAPI.Dominio\bin\Debug\netcoreapp2.1\WebAPI.Dominio.deps.json
+C:\Users\fekel\source\repos\WebAPI.Dominio\bin\Debug\netcoreapp2.1\WebAPI.Dominio.dll
+C:\Users\fekel\source\repos\WebAPI.Dominio\bin\Debug\netcoreapp2.1\WebAPI.Dominio.pdb
+C:\Users\fekel\source\repos\WebAPI.Dominio\obj\Debug\netcoreapp2.1\WebAPI.Dominio.csproj.AssemblyReference.cache
+C:\Users\fekel\source\repos\WebAPI.Dominio\obj\Debug\netcoreapp2.1\WebAPI.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fekel\source\repos\WebAPI.Dominio\obj\Debug\netcoreapp2.1\WebAPI.Dominio.AssemblyInfoInputs.cache
+C:\Users\fekel\source\repos\WebAPI.Dominio\obj\Debug\netcoreapp2.1\WebAPI.Dominio.AssemblyInfo.cs
+C:\Users\fekel\source\repos\WebAPI.Dominio\obj\Debug\netcoreapp2.1\WebAPI.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\fekel\source\repos\WebAPI.Dominio\obj\Debug\netcoreapp2.1\WebAPI.Dominio.dll
+C:\Users\fekel\source\repos\WebAPI.Dominio\obj\Debug\netcoreapp2.1\WebAPI.Dominio.pdb
